@@ -1,0 +1,21 @@
+- unsupervised algorithm : anomaly detection-clustring-dimentionaly riduction(kahesh rank)
+
+- k-nearest neighbor bara vaghti ke noise(khata haye human-sensor ) data ro ghabol dari(ke ba feature haye bishtar kamtar mishe noise) ya inke anomaly data ham vojod dare(weakness asli k-nearest neighbor in hast chon anomaly hast va ba neighbors hash fargh dare)
+
+- 1-nearest neighbor be noise kheili hasase vali msln 3-nearest neighbor kamtar be noise hasase va yani robustness bishtari dare.
+
+vali inke che k(1-3-5 ya...) monasebe bayad to algorithm haye mokhtalef test beshe, va bar mabnaye data sample ha choose koni 
+yani ba azmayesh kardan k monaseb ro peyda mikoni ke mishe hyperparameters peyda kardan
+
+- robust yani chi?  the ability of a model to maintain its performance when faced with uncertainties or adversarial conditions. msln ba ye sample space khas mifahmi ke k=3 bishtarin robustness ro dare
+
+- hyperparameter peyda kardan? roye data ha train mikonim va algorithm learn mikone, ya miam roye data ya azmayesh mikonim ta behtarin addad baraye parameter haro peyda konim va in dovomi mishe hyperparameter peyda kardan
+
+- k-nearest neghibor(classification)+
+
+- random seed:     Random Seed: An initial value that determines the sequence of random numbers.
+    Reproducibility: Ensures that random outputs are the same every time the code is run with the same seed.
+    Use Cases: Machine learning, simulations, testing, game development, and more.
+
+Setting a random seed helps ensure consistency and reproducibility, which is crucial for scientific experiments, debugging, and sharing results.
+
