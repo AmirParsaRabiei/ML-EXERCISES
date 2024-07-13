@@ -19,3 +19,7 @@ yani ba azmayesh kardan k monaseb ro peyda mikoni ke mishe hyperparameters peyda
 
 Setting a random seed helps ensure consistency and reproducibility, which is crucial for scientific experiments, debugging, and sharing results.
 
+
+Q-iris-classification-with-knn : chera harchi man K ro to knn taghir midadam avaz nmishod scoram?
+Q-iris-classification-with-knn : bara score bishtar bayad chi kard?
+Q-iris-classification-with-knn : nahve pass dadan X_test , Y-test va pred haro kamel dark nakardam va boro syntax ro rajebesh bepors
