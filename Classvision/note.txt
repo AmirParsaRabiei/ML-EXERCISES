@@ -13,7 +13,7 @@ yani ba azmayesh kardan k monaseb ro peyda mikoni ke mishe hyperparameters peyda
 
 - k-nearest neghibor(classification)+
 
-- random seed:     Random Seed: An initial value that determines the sequence of random numbers.
+- random seed: Random Seed: An initial value that determines the sequence of random numbers.
     Reproducibility: Ensures that random outputs are the same every time the code is run with the same seed.
     Use Cases: Machine learning, simulations, testing, game development, and more.
 
